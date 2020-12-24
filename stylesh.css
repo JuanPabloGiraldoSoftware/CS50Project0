@@ -1,0 +1,63 @@
+.googlebtn {
+	background-image: -webkit-linear-gradient(top,#f8f9fa,#f8f9fa);
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: 
+    center;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+.googlebtn:hover{
+	background-color: #f4f8ff;
+	border-color: #c9ddfc;
+	text-decoration: none; 
+}
+
+.googlebtn:active{
+	border-color: blue;
+}
+
+*:focus{
+	outline: none;
+}
+
+#srh_field{
+	padding: 0px;
+	background-color: transparent;
+	outline: none;
+	border: 0 solid; 
+	width: 507px;
+	height: 34px;
+	margin: auto;
+}
+
+#srh_bar{
+	padding: 5px 8px 0px 14px;
+	border: 1px solid #e6e8eb;
+	margin: 0px;
+	display: flex;
+	align-content: center;
+	vertical-align: middle;
+	width: 560px;
+	height: 39px;
+	border-radius: 36px;
+}
+
+#srh_bar:hover{
+	box-shadow: 1px 2px #e6e8eb;
+}
+
+#logo{
+	padding-top: 109px;
+}
