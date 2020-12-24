@@ -1,3 +1,8 @@
+/* Author: Juan Pablo Giraldo
+   Date: 22/12/2020;
+   Last Modification: 23/12/2020 22:47 COL;
+*/
+
 .googlebtn {
 	background-image: -webkit-linear-gradient(top,#f8f9fa,#f8f9fa);
     background-color: #f8f9fa;
@@ -80,4 +85,15 @@
 	display: flex;
 	top: 10px;
 	right: 10px;	
+}
+
+#sbtn{
+	width: 30px;
+	height: 30px;
+}
+button{
+	background-color: transparent;
+	border: 0px;
+	cursor: pointer;
+    user-select: none;
 }
