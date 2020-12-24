@@ -61,3 +61,23 @@
 #logo{
 	padding-top: 109px;
 }
+
+.src_links{
+	font-family: arial,sans-serif;
+    font-size: 13px;
+    color: black;
+    margin: 6px;
+    text-decoration: none;
+}
+
+.src_links:hover{
+	color: #3c4043;
+	text-decoration: underline;
+}
+
+#dlinks{
+	position: absolute;
+	display: flex;
+	top: 10px;
+	right: 10px;	
+}
