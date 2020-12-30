@@ -68,6 +68,47 @@ button{
 	top: 10px;
 	right: 10px;	
 }
+
+.spcol{
+	padding: 20px;
+	font: 16px arial, sans-serif;
+	margin-top: 10px;
+}
+
+.spcol2{
+	font: 13px arial,sans-serif;
+	color: #777777; 
+}
+
+.srow{
+	padding: 20px;
+	font: 13px arial,sans-serif;
+	color: #222222;
+}
+
+.srow2{
+	padding: 2px;
+	font: 11px arial,sans-serif;
+	color: #555555;	
+}
+
+.rdiv{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.rdiv2{
+	margin-top: 3px;
+	margin-left: 20px;
+}
+
+.srh_field2{
+	width: 534.31px;
+	height: 29px;
+	border: 1px solid #e6e8eb;
+	padding: 1px 8px;
+	background: #ffffff
+}
 /* ID styles*/
 
 #srh_field{
@@ -90,6 +131,10 @@ button{
 	width: 560px;
 	height: 39px;
 	border-radius: 36px;
+}
+
+.fal{
+	display: inline-block;
 }
 
 #srh_bar:hover{
@@ -125,4 +170,9 @@ button{
 	color: #d93025;
 	font-size: 20px;
 	font-family: arial, sans-serif;
+}
+
+#blank{
+	width: 532px;
+	height: 41px;
 }
